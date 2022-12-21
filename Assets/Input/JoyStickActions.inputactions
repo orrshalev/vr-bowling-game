@@ -1,0 +1,34 @@
+{
+    "name": "JoyStickActions",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "cefa8629-9b90-4c95-a67f-48fbd402edbe",
+            "actions": [
+                {
+                    "name": "A ",
+                    "type": "Button",
+                    "id": "2be17c72-c2bd-4f8c-ae7e-96c5a3db4e15",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "6d0509ca-ccea-4870-9871-ea6b089b83a0",
+                    "path": "<OculusTouchController>{RightHand}/primaryButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "A ",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
